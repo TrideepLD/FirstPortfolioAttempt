@@ -19,7 +19,7 @@ const Navbar = () => {
             <Nav>
                 <NavbarContainer>
                     <NavLogo to="/">
-                        <h1>Some Text</h1>
+                        <h1>dolla</h1>
                     </NavLogo>
                     <MobileIcon>
                         <FaBars />
